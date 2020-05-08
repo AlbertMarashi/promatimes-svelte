@@ -1,0 +1,6 @@
+{
+  "files": {
+    "0.server-bundle.js": "exports.ids = [0];\nexports.modules = {\n\n/***/ \"./app/client.js\":\n/*!***********************!*\\\n  !*** ./app/client.js ***!\n  \\***********************/\n/*! no exports provided */\n/*! ModuleConcatenation bailout: Module is referenced from these modules with unsupported syntax: ./app/server.js (referenced with import()) */\n/***/ (function(module, __webpack_exports__, __webpack_require__) {\n\n\"use strict\";\neval(\"__webpack_require__.r(__webpack_exports__);\\n/* harmony import */ var _app_svelte__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/app.svelte */ \\\"./app/app.svelte\\\");\\n\\nnew _app_svelte__WEBPACK_IMPORTED_MODULE_0__[\\\"default\\\"]({\\n  target: document.querySelector('#app'),\\n  hydrate: true\\n});\\n\\n//# sourceURL=webpack:///./app/client.js?\");\n\n/***/ })\n\n};;"
+  },
+  "maps": {}
+}
