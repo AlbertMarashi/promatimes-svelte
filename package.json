@@ -28,7 +28,7 @@
         "koa-webpack": "^5.3.0",
         "lodash.uniq": "^4.5.0",
         "stylus-loader": "^3.0.2",
-        "svelte": "^3.21.0",
+        "svelte": "^3.49.0",
         "svelte-loader": "^2.13.6",
         "svelte-loader-hot": "^0.3.0",
         "svelte-preprocess": "^3.7.4",
